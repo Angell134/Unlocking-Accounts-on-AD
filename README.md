@@ -30,7 +30,7 @@ This tutorial outlines the step by step process of unlocking an account on Activ
 <img width="1918" height="1070" alt="Screenshot 2025-07-19 123513" src="https://github.com/user-attachments/assets/2811d147-127a-453f-ad7c-6c0213695eed" />
 
 
-<p> Say that an employee or customer of yours is having trouble logging in to their account and got locked out. This is how you fix it. </p>
+<p> Say that an employee of yours is having trouble logging in to their account and got locked out. This is how you fix it. </p>
 
 <br />
 
@@ -45,7 +45,7 @@ This tutorial outlines the step by step process of unlocking an account on Activ
 <p>
 <img width="1502" height="874" alt="Screenshot 2025-07-19 123708" src="https://github.com/user-attachments/assets/741619bc-9951-4a28-af94-332b3b9ad67f" />
 
-<p> FIRST </p>
+<p> Once you  open ADUC, open the file where your employees are and find the employee. To find them more easily, you can right-click the file of your employees, click 'find', then search their name and click on their name. </p>
 
 <br />
 
