@@ -54,14 +54,16 @@ This tutorial outlines the step by step process of unlocking an account on Activ
 <img width="663" height="785" alt="Screenshot 2025-07-19 123729" src="https://github.com/user-attachments/assets/fffd0b96-436e-4f99-8f7f-29b3254f14e2" />
 
 
-<p> </p>
+<p>Then, in your employees' properties, click 'Account'. Once you click it, you should see under the logon hours and box that says unlock account, this account is locked out on this Active Directory. Check the box, then press Apply and OK. </p>
 
 <br />
 
 
 <p>
 <img width="734" height="730" alt="Screenshot 2025-07-19 123842" src="https://github.com/user-attachments/assets/005d2c77-e168-4c3b-b993-c285e8527717" />
-<p>  </p>
+
+
+<p>After that, you should communicate with your employees, informing them that it's been unlocked </p>
 
 <br />
 </p>
